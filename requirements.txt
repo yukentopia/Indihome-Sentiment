@@ -1,0 +1,10 @@
+streamlit
+streamlit-option-menu
+pandas
+openpyxl
+matplotlib
+seaborn
+wordcloud
+scikit-learn
+SQLAlchemy
+mysql-connector-python
